@@ -3,9 +3,10 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
-
+    p En los procesos de salud-enfermedad, debe tenerse en cuenta los factores que inciden a nivel global en la calidad de vida de la población y que son determinantes sobre su condición de salud, así el cómo repercuten en y sobre sus entornos. Po esta razón, Colombia, a lo largo de su historia reciente, ha avanzado en los procesos legislativos relacionados con la gestión de la salud ambiental y la protección de los recursos naturales, como una forma de mitigar los impactos de la población sobre el entorno y prevenir situaciones más complejas en materia de salud ambiental en el futuro.
+    p Por medio del trabajo legislativo y la búsqueda de alternativas que permitan el ordenamiento legal de los procesos que inciden en la salud y el ambiente se ha avanzado de manera considerable en la construcción de una agenda común, articulada con los lineamientos internacionales, los organismos de control y las autoridades, en medio de la cual se establecen mecanismos para la protección de la salud de la población, de forma indirecta, a través del cuidado y la protección de los recursos naturales y la gestión de los riesgos asociados a factores ambientales.
+    p.mb-5 El siguiente mapa conceptual le orientara sobre los principales temas abordados en este componente formativo:
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

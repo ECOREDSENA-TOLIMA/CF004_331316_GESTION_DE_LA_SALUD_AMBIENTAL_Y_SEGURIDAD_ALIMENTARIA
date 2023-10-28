@@ -2,14 +2,8 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
+    top: 60%
+    right: 15%
 
 @keyframes float1
   0%
@@ -17,3 +11,63 @@
 
   100%
     transform: translateY(0px)
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #000 !important
+
+.boton *, .boton--sm *
+  color: #ffff !important
+
+.tema1
+  .tabla-b td, .tema1 .tabla-b th, .tema1 .tabla-c td, .tema1 .tabla-c th
+    border: 1px solid #e1e1e1
+  .tarjeta.color-primario1
+    background-color: #CADEB4
+  .tarjeta.color-secundario1
+    background-color: #C1CDF5
+  .tarjeta.color-acento-contenido1
+    background-color: #FCE7E1
+  
+@media only screen and (width: 768px) 
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+
+  .slyder-b__slyde
+    .row
+      margin-right: 5rem !important
+      width: 80% 
+
+@media only screen and (min-width: 390px) and (max-width: 391px)
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+
+  .slyder-b__slyde
+    .row
+      margin-right: 5rem !important
+      width: 80%
+
+.tema2
+  .tarjeta.tarjeta--azul1
+    background-color: #EAF2E1
+  .tarjeta.tarjeta--azul2
+    background-color: #E6EBFB
+
+.banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6
+  color: #000 !important
+
+.banner-interno__titulo__icono
+  background-color: #000 !important
+
