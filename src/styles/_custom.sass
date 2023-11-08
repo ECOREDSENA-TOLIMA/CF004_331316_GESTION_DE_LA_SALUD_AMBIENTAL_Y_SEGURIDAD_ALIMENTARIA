@@ -30,6 +30,29 @@
   color: #ffff !important
 
 .tema1
+  .bg
+    &-c8
+      position: relative
+      left: -2%
+      h3
+        color: #455B2D
+      @media screen and ( max-width: $bp-max-lg )
+        left: -3%
+      @media screen and ( max-width: $bp-max-sm )
+        left: -4%
+
+  .lista-ul li > i:first-of-type, .lista-ul--separador li > i:first-of-type, .lista-ul--color li > i:first-of-type
+    font-size: 0.7rem
+
+  .BGIMG02
+    border-radius: 15px
+    background-image: url("../assets/curso/temas/fondo2.svg")
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+  .slyder__btn
+    background: $color-acento-botones
+    color: #fff
   .tabla-b td, .tema1 .tabla-b th, .tema1 .tabla-c td, .tema1 .tabla-c th
     border: 1px solid #e1e1e1
   .tarjeta.color-primario1
@@ -37,7 +60,7 @@
   .tarjeta.color-secundario1
     background-color: #C1CDF5
   .tarjeta.color-acento-contenido1
-    background-color: #FCE7E1
+    background: linear-gradient(0deg,#FCE7E1, #FFFF)
   
 @media only screen and (width: 768px) 
   .col-ipad
@@ -60,10 +83,34 @@
       width: 80%
 
 .tema2
+  .bg
+    &-c8
+      position: relative
+      left: -2%
+      h3
+        color: #455B2D
+      @media screen and ( max-width: $bp-max-lg )
+        left: -3%
+      @media screen and ( max-width: $bp-max-sm )
+        left: -4%
+  .lista-ul li > i:first-of-type, .lista-ul--separador li > i:first-of-type, .lista-ul--color li > i:first-of-type
+    font-size: 0.7rem
+      
+  .slyder__btn
+    background: $color-acento-botones
+    color: #fff
+  .BGIMG02
+    border-radius: 15px
+    background-image: url("../assets/curso/temas/fondo2.svg")
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
   .tarjeta.tarjeta--azul1
     background-color: #EAF2E1
   .tarjeta.tarjeta--azul2
     background-color: #E6EBFB
+  .tarjeta.color-acento-contenido1
+    background: linear-gradient(0deg,#FCE7E1, #FFFF)
 
 .banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6
   color: #000 !important

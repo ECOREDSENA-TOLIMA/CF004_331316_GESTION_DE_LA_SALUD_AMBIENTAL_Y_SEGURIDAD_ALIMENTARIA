@@ -22,7 +22,7 @@
     p.mb-5 Según lo expresado por la Organización Mundial de la Salud, “los determinantes sociales de la salud son las circunstancias en que las personas nacen, crecen, trabajan, viven y envejecen, incluido el conjunto más amplio de fuerzas y sistemas que influyen sobre las condiciones de la vida cotidiana". Por lo tanto, la salud es el resultado de las múltiples interacciones que se dan en cada uno de estos ámbitos y la manera cómo estas inciden en la persona.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 7.] <em>Esquema del enfoque multinivel de los determinantes de la salud</em>
         figure
@@ -30,7 +30,7 @@
           figcaption Nota. Tomada de Dalhgren y Whitehead (1991, citado en OMS, 2005).
 
     .row.mt-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.movil(data-aos="fade-right")
         a.anexo.mb-4(:href="obtenerLink('/downloads/figura7_Esquema_ del_enfoque_multinivel_de_los_determinantes_de_la_salud.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
@@ -39,7 +39,13 @@
 
     p.mb-5 Una de las formas de explicar el enfoque por determinante sociales en salud, es el modelo de multinivel propuesto por Dahlgren y Whitehead (1991 citado en OMS, 2005) donde se evidencia toda la gama de factores o determinantes, que inciden en la salud y el bienestar de las personas. En el anterior esquema se evidencia que los determinantes que están más cerca son los que tienen una influencia más directa sobre la salud del individuo, mientras que aquellos que se encuentran distantes tienen sobre él una influencia indirecta.
 
-    h3.mb-5(style="color:#455B2D") Determinantes estructurales
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Determinantes estructurales
 
     p.mb-5 De acuerdo con lo expuesto en el modelo multinivel, en la capa exterior se encuentran los determinantes estructurales; es decir, aquellos que tiene incidencia indirecta sobre los individuos pero que sí tienen la capacidad de influir sobre las poblaciones. Estos determinantes se relacionan con las condiciones socioeconómicas de la población, la cultura predominante y los factores ambientales. 
 
@@ -51,7 +57,13 @@
         .col-lg-10
           p En el contexto actual, la cobertura de salud y el tipo de aseguramiento, por ejemplo, están supeditados al nivel de ingresos de las personas. Si se cuenta con unos ingresos considerables, es más fácil acceder a determinados servicios, mientras que, si los recursos económicos son limitados, es más probable que se encuentren barreras para la atención en salud. Igualmente, los factores socioeconómicos, a su vez, tienen incidencia en otros contextos como los hábitos, el acceso a las actividades de prevención de la enfermedad y la exposición a determinado tipo de riesgos.
 
-    h3.mb-5(style="color:#455B2D") Determinantes intermedios 
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Determinantes intermedios 
 
     p.mb-5 Estos determinantes se relacionan más con el entorno cercano a la persona y tienen que ver con las circunstancias individuales de la población (condiciones de vida, disponibilidad de alimento, condiciones de trabajo, educación, acceso a servicios de salud). Igualmente, estos determinantes se relacionan de forma estrecha con elementos como la producción agrícola, la educación, el entorno laboral, las situaciones de desempleo, agua y saneamiento básico, el entorno sanitario y la vivienda.
 
@@ -62,7 +74,7 @@
         figure
           img.mb-3(src='@/assets/curso/temas/tema2/img-3-1.svg', alt='La figura 8, dicta que los determinantes sociales de la salud, declarados por la OMS y la OPS, para la región de las Américas, no podrán lograrse, sino hay equidad en el derecho de los puebles.')
 
-    .row.mt-5.mb-5
+    .row.mt-5.mb-4
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 8.] <em>Determinantes sociales de la salud</em>
@@ -94,7 +106,7 @@
     p.mb-5 En términos generales, para el diseño y puesta en marcha de un sistema de atención integral en salud, es necesario contar al menos con los siguientes actores:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 9.] <em>Actores transversales de los procesos de salud y ambiente</em>
         figure
@@ -102,7 +114,7 @@
           figcaption Nota. Tomada de la Alcaldía de Medellín. Política integral de salud ambiental.
 
     .row.mt-5.mb-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 9.] <em>Actores transversales de los procesos de salud y ambiente</em>
         figure
@@ -133,23 +145,23 @@
 
     p.mb-5 Estos son fundamentales para el desarrollo de los procesos enfocados en el fortalecimiento de la gestión integral de la salud ya que buena parte de los factores que inciden en la salud de las personas depende de comportamientos, hábitos y costumbres que se dan al interior de las comunidades. 
 
-    .tarjeta.tarjeta.p-4.mb-5.mt-5(style="background-color:#FCE7E1")(data-aos="flip-up")
+    .tarjeta.color-acento-contenido1.p-4.mb-5.mt-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center 
         .col-lg-3.mb-3
           figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema2/decorador-4.svg', alt='Texto que describa la imagen')
         .col-lg-7
-          p De acuerdo con el portal “Así vamos en salud”, disponible en el enlace <a href="https://www.asivamosensalud.org/salud-para-ciudadanos/participacion-comunitaria-en-salud">https://www.asivamosensalud.org/salud-para-ciudadanos/participacion-comunitaria-en-salud</a> la Constitución Política de Colombia de 1991 garantiza que los servicios de salud se organicen de forma descentralizada, por niveles de atención y con participación de la comunidad, lo cual permite que los ciudadanos tomen decisiones sobre su salud y tengan la oportunidad de ejercer veeduría sobre la calidad de los servicios y el acceso a una atención oportuna. 
+          p De acuerdo con el portal “Así vamos en salud”, disponible en el enlace <b><a href="https://www.asivamosensalud.org/salud-para-ciudadanos/participacion-comunitaria-en-salud">https://www.asivamosensalud.org/salud-para-ciudadanos/participacion-comunitaria-en-salud,</a></b> la Constitución Política de Colombia de 1991, garantiza que los servicios de salud se organicen de forma descentralizada, por niveles de atención y con participación de la comunidad, lo cual permite que los ciudadanos tomen decisiones sobre su salud y tengan la oportunidad de ejercer veeduría sobre la calidad de los servicios y el acceso a una atención oportuna. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 10.] <em>Actores clave en la implementación de las políticas de salud pública</em>
         figure
           img.mb-3(src='@/assets/curso/temas/tema2/img-7-1.svg', alt='La figura 10, establece los actores clave en la implementación de las políticas de salud pública, entre los que se cuentan: el estado, gobierno y sectores de la sociedad.')
 
     .row.mt-5.mb-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 10.] <em>Actores clave en la implementación de las políticas de salud pública</em>
         figure
@@ -157,7 +169,13 @@
 
     p.mb-5 De acuerdo con el esquema anterior, es evidente cómo a través de la acción del Estado, los gobiernos y todos los sectores de la sociedad se llevan a la realidad las políticas diseñadas en materia de salud pública que están enfocadas en la garantía del derecho a la salud y el mejoramiento de los indicadores que dan cuenta de la calidad de vida de la población.
 
-    h3.mb-5(style="color:#455B2D") Mapeo de actores
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Mapeo de actores
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-md-8.mb-3
@@ -167,7 +185,13 @@
       .col-md-4
         img(src="@/assets/curso/temas/tema2/img-8.png")
 
-    h3.mb-5(style="color:#455B2D") Comunidades, familia y salud
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Comunidades, familia y salud
 
     p.mb-5 Con base en el enfoque por determinantes de la salud se evidencia que tanto la familia como la comunidad corresponden al entorno más cercano en el cual se da la cotidianidad de las personas y en medio del cual se desarrollan elementos que inciden en la calidad de vida, entre los que se encuentran los hábitos, la vivienda, la alimentación y la salud mental. Definitivamente un entorno seguro, protector de la salud, es indispensable para mejorar los indicadores de salud de la población. 
 
@@ -203,7 +227,7 @@
         .col-lg-10
           p A través del aumento de las capacidades y habilidades de las comunidades en el ejercicio de sus derechos y la promoción de la autonomía es posible articular la respuesta institucional, mejorar los canales de atención y diseñar estrategias para la promoción de hábitos de vida saludables que contribuyan a reducir la incidencia de los problemas de salud pública en los territorios. 
 
-    p.mb-5 Según lo expresado en el portal de la Secretaría de Salud de Bogotá en relación con los mecanismos de participación ciudadana <a href="http://www.saludcapital.gov.co/Paginas2/MecanismosdeParticipacionCiudadana.aspx">http://www.saludcapital.gov.co/Paginas2/MecanismosdeParticipacionCiudadana.aspx</a> existen diferentes formas e instancias a través de las cuales las personas pueden incidir en la forma como se prestan los servicios de salud y en la manera en que las entidades se relacionan con las comunidades. Las principales son las siguientes:
+    p.mb-5 Según lo expresado en el portal de la Secretaría de Salud de Bogotá, en relación con los mecanismos de participación ciudadana, existen diferentes formas e instancias a través de las cuales las personas pueden incidir en la forma como se prestan los servicios de salud y en la manera en que las entidades se relacionan con las comunidades. Las principales son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
@@ -228,7 +252,7 @@
     p.mb-5 De acuerdo con el organigrama publicado en el portal web del Departamento Administrativo de la Función Pública <a href="https://www.funcionpublica.gov.co/">(https://www.funcionpublica.gov.co/)</a>, la estructura general de los organismos de control es la siguiente:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 13.] <em>Organigrama general de los organismos de control en Colombia</em>
         figure
@@ -236,7 +260,7 @@
           figcaption Nota. Tomada de Función Pública (2022)
 
     .row.mt-5.mb-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 13.] <em>Organigrama general de los organismos de control en Colombia</em>
         figure
@@ -245,7 +269,13 @@
 
     p.mb-5 Con base en el organigrama de la figura anterior, a continuación, se describen algunos de los organismos de control indicados:
     
-    h3.mb-5(style="color:#455B2D") Contraloría General de la República
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Contraloría General de la República
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -336,7 +366,13 @@
             p.mb-0 Decreto 2037 de 2019 (noviembre 7).
             p.mb-0 Decreto 405 de 2020 (marzo 16).
     
-    h3.mb-5(style="color:#455B2D") Auditoría General de la República
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Auditoría General de la República
 
     .row.mb-5(data-aos="fade-right")
       .col-5
@@ -345,11 +381,23 @@
         p La Auditoría General de la República es un organismo de vigilancia de la gestión fiscal. Su objeto textual es “Ejercer la función de vigilancia de la gestión fiscal, en la modalidad más aconsejable, mediante los sistemas de control financiero, de gestión y de resultados, en desarrollo de los principios de eficiencia, economía y equidad” (Función Pública – Manual de Estructura del Estado). Su función es ejercer la vigilancia de la gestión fiscal conforme a los principios establecidos en la Constitución Política de Colombia de 1991 para lo cual el Auditor General cuenta con cierta autonomía en cuanto a la fijación de las políticas, los métodos para ejercer el control y la presentación de las rendiciones de cuentas de la entidad. 
         p Dentro de su estructura, cuenta con una oficina llamada Despacho del Auditor Auxiliar de quien dependen la auditoría delegada para el Control Fiscal, las gerencias seccionales y la secretaría general. 
 
-    h3.mb-5(style="color:#455B2D") Ministerio Público
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Ministerio Público
 
     p.mb-5 Este es un organismo de control integrado por la Procuraduría General de la Nación y la Defensoría del Pueblo. Este ministerio es ejercido por el Procurador General, por el Defensor del Pueblo, por los procuradores delegados, los agentes del Ministerio Público y los personeros municipales. Por su parte, el Procurador General es elegido por el Senado de la República para un periodo de cuatro años. 
     
-    h3.mb-5(style="color:#455B2D") Procuraduría General de la Nación
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Procuraduría General de la Nación
 
     p.mb-5 La Procuraduría es el máximo organismo del ministerio público y posee total autonomía financiera y administrativa. Representa a los colombianos frente al Estado y sus funciones generales y específicas se definen en los artículos 277 y 278 de la Constitución Política de 1991.
 
@@ -374,7 +422,13 @@
     p Dentro de las principales funciones que ejerce la procuraduría existen las de tipo preventivo, es decir aquellas que se relacionan con la vigilancia de las actuaciones que llevan a cabo los funcionarios públicos y las disciplinarias, que consisten en la imposición de sanciones a los servidores públicos que incurran en faltas relacionadas con delitos de corrupción o detrimento patrimonial. 
     p.mb-5 Dentro de la procuraduría existen dependencias encargadas de la atención de determinados asuntos, según su naturaleza, como son la procuraduría auxiliar para Asuntos Constitucionales y la Procuraduría Auxiliar para Asuntos Disciplinarios. Igualmente, existe una Dirección Nacional de Investigaciones Especiales y las salas disciplinarias de instrucción, disciplinaria ordinaria de juzgamiento y la sala disciplinaria de juzgamiento de servidores públicos de elección popular. En el nivel territorial, están las procuradurías regionales, las distritales y las provinciales.
 
-    h3.mb-5(style="color:#455B2D") Defensoría del Pueblo
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Defensoría del Pueblo
 
     p.mb-5 Es la entidad que se encarga de impulsar la efectividad de los derechos humanos y en términos generales posee las siguientes funciones:
 
@@ -413,39 +467,18 @@
     
     p.mb-5 Además de estas dependencias, directamente y siempre bajo el visto bueno del Defensor del Pueblo existen las defensorías regionales. 
     
-    h3.mb-5(style="color:#455B2D") Otras dependencias de control departamentales y/o nacionales
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Otras dependencias de control departamentales y/o nacionales
 
     p.mb-5 Además de las entidades anteriormente mencionadas, existen algunas otras que, igualmente, desarrollan actividades relacionadas con la vigilancia y el seguimiento a la forma como se presentan los servicios de salud en las regiones:
 
-    .tarjeta.color-primario.p-4.mb-5(data-aos="fade-down-left")(style="background-color:#EAF2E1")
-      SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0
-            h4 Superintendencia de Salud
-            p Sus funciones principales se relacionan con la inspección, vigilancia y control del sistema general para la prestación de servicios de salud.
-          
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/img-16.png', alt='')
-
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0
-            h4 Secretarías de Salud
-            p En los ámbitos departamentales, municipales y distritales desarrollan acciones de inspección, vigilancia y control en materia de saneamiento básico.
-          
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/img-17.png', alt='')
-
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0
-            h4 Invima
-            p Instituto Nacional de Vigilancia de Medicamentos y Alimentos. Es una entidad de vigilancia y control de carácter técnico científico que trabaja para la protección de la salud individual y colectiva de los colombianos.
-          
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/img-18.png', alt='')
-
+    .BGIMG02.p-4.mb-5
+      SlyderB.mb-5(:datos="datosSlyder")
 
 
 
@@ -464,7 +497,26 @@
 export default {
   name: 'Tema2',
   data: () => ({
-    // variables de vue
+    datosSlyder: [
+      {
+        titulo: 'Superintendencia de Salud',
+        texto:
+          'Sus funciones principales se relacionan con la inspección, vigilancia y control del sistema general para la prestación de servicios de salud.',
+        imagen: require('@/assets/curso/temas/tema2/img-16.png'),
+      },
+      {
+        titulo: 'Secretarías de Salud',
+        texto:
+          'En los ámbitos departamentales, municipales y distritales desarrollan acciones de inspección, vigilancia y control en materia de saneamiento básico.',
+        imagen: require('@/assets/curso/temas/tema2/img-17.png'),
+      },
+      {
+        titulo: 'INVIMA',
+        texto:
+          'Instituto Nacional de Vigilancia de Medicamentos y Alimentos. Es una entidad de vigilancia y control de carácter técnico científico que trabaja para la protección de la salud individual y colectiva de los colombianos.',
+        imagen: require('@/assets/curso/temas/tema2/img-18.png'),
+      },
+    ],
   }),
   mounted() {
     this.$nextTick(() => {

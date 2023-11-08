@@ -10,7 +10,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Las normas y lineamientos establecidos en la seguridad sanitaria y ambiental, se rigen por los dictámenes nacionales, así como por los ODS, regulados mediante el CONPES. Igualmente, a nivel internacional, se proveen de marcos, y convenios que posibilitan la regulación en pro del ambiente y la salud para los hombres y el planeta.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

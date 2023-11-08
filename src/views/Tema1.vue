@@ -33,7 +33,13 @@
 
     p.mb-5 A continuación, se describe la normatividad aplicable en términos de seguridad sanitaria y ambiental:
 
-    h3.mb-5(style="color:#455B2D") Constitución Política de Colombia de 1991
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Constitución Política de Colombia de 1991
 
     p.mb-5 Desde el punto de vista normativo, Colombia es un país que se destaca por su interés en el abordaje de la salud ambiental, ya que, desde la misma Constitución Política, se da cuenta de principios como el derecho a un ambiente sano, el medio ambiente como patrimonio común y el desarrollo sostenible. De ella también se desprenden otros artículos que, igualmente, hacen énfasis en la influencia que un ambiente sano tiene sobre la calidad de vida de la población, tal como se presenta a continuación. 
 
@@ -53,7 +59,13 @@
 
     p.mb-5 Para materializar los principios propuestos en la Constitución Política de Colombia, se ha creado un amplio marco normativo a través del cual se busca la garantía del derecho fundamental a la salud, tal como se expone en la Ley Estatutaria 1751 de 2015 del Congreso de la República, la cual tiene por objeto “garantizar el derecho fundamental a la salud, regularlo y establecer sus mecanismos de protección” y en la que se hace énfasis en el deber del estado de adoptar políticas públicas que permitan la reducción de las desigualdades de los determinantes sociales de la salud.
 
-    h3.mb-5(style="color:#455B2D") Plan Decenal de Salud Pública 2022 - 2031 
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Plan Decenal de Salud Pública 2022 - 2031 
 
     p.mb-5 Otro de los elementos importantes en materia de salud en Colombia, es el Plan Decenal de Salud Pública 2022 - 2031 (PDSP), el cual se constituye en una hoja de ruta en la cual se establecen los objetivos, las metas y las estrategias que permitirán enfrentar los desafíos que tiene el país en materia de salud pública, tomando como base la garantía del derecho fundamental a la salud, el bienestar integral y la calidad de vida de la población. 
 
@@ -66,28 +78,34 @@
           p En este orden de ideas, dentro de los fines que tiene el PDSP se encuentra el de “avanzar hacia la garantía de un ambiente sano y la mejora de la salud ambiental” en medio de lo cual se mencionan elementos como la protección de los ecosistemas, la mitigación de los efectos del cambio climático y la consolidación de territorios saludables y sostenibles.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-7.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Principales artículos de la Constitución Política de Colombia de 1991 relacionados con salud ambiental</em>
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Pilares del Plan Decenal de Salud Pública 2022 - 2031</em>
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/img-5-1.svg', alt='La figura 2, presenta los 4 pilares del plan decenal de salud pública 2022-2031: 1. Protección social, 2. Cultura para la vida y la salud, 3. Ambiente y salud y, 4. Integralidad en salud.')
 
     .row.mt-5.mb-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-7.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Principales artículos de la Constitución Política de Colombia de 1991 relacionados con salud ambiental</em>
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Pilares del Plan Decenal de Salud Pública 2022 - 2031</em>
         figure
           img(src='@/assets/curso/temas/tema1/img-5-2.svg', alt='La figura 2, presenta los 4 pilares del plan decenal de salud pública 2022-2031: 1. Protección social, 2. Cultura para la vida y la salud, 3. Ambiente y salud y, 4. Integralidad en salud.') 
 
     p.mb-5 Igualmente, dentro de los cuatro pilares en los que se basa el Plan Decenal de Salud Pública 2022 – 2031 se encuentra el de “Ambiente y Salud” en el que se hace énfasis en los determinantes ambientales de la salud los cuales se relacionan con la disponibilidad y calidad del agua, el saneamiento, la gestión de los residuos sólidos, la higiene, los entornos saludables y la planificación urbana.
 
-    h3.mb-5(style="color:#455B2D") Marco normativo
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Marco normativo
 
-    p El marco normativo nacional que trata sobre la relación entre la calidad del ambiente y la salud de las personas es bastante extenso, pues existen decretos, leyes y resoluciones, incluso documentos Conpes (Consejo Nacional de Política Económica y Social) que abordan el tema.
+    p El marco normativo nacional que trata sobre la relación entre la calidad del ambiente y la salud de las personas es bastante extenso, pues existen decretos, leyes y resoluciones, incluso documentos CONPES (Consejo Nacional de Política Económica y Social) que abordan el tema.
     p.mb-5 Algunas de las principales consideraciones en materia de salud ambiental se pueden analizar desde el siguiente marco legal.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="La tabla 1, especifica y describe los Conpes que están relacionados con la salud ambiental para el periodo 1994- 2022.")
+      .col-10.col-md-10.col-lg-10(data-aos="fade-right", alt="La tabla 1, especifica y describe los Conpes que están relacionados con la salud ambiental para el periodo 1994- 2022.")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Tabla 1.] <em>Conpes relacionados con la salud ambiental 1994 - 2022</em>
         .tabla-b.color-acento-contenido
@@ -97,34 +115,34 @@
                 th.text-center(colspan="4") Conpes
             tbody
               tr
-                td(colspan="3")(style="background-color:#F6F6F6") <strong>Conpes 2750 de 1994</strong>
+                td(colspan="3")(style="background-color:#F6F6F6") <strong>CONPES 2750 de 1994</strong>
                 td(colspan="3")(style="background-color:#F6F6F6") Define las políticas sobre manejo de residuos sólidos.             
               tr
-                td(colspan="3")(style="background-color:#FFFF") <strong>Conpes 3343 de 2005</strong>
+                td(colspan="3")(style="background-color:#FFFF") <strong>CONPES 3343 de 2005</strong>
                 td(colspan="3")(style="background-color:#FFFF") Lineamientos y estrategias de desarrollo sostenible para los sectores de agua, ambiente y desarrollo territorial.
               tr
-                td(colspan="3")(style="background-color:#F6F6F6") <strong>Conpes 0113 de 2007</strong>
+                td(colspan="3")(style="background-color:#F6F6F6") <strong>CONPES 0113 de 2007</strong>
                 td(colspan="3")(style="background-color:#F6F6F6") Política Nacional de Seguridad alimentaria y Nutricional. 
               tr
-                td(colspan="3")(style="background-color:#FFFF") <strong>Conpes 3550 de 2008</strong>
+                td(colspan="3")(style="background-color:#FFFF") <strong>CONPES 3550 de 2008</strong>
                 td(colspan="3")(style="background-color:#FFFF") Política integral de salud ambiental con énfasis en los componentes de calidad de aire, calidad de agua y seguridad química.
               tr
-                td(colspan="3")(style="background-color:#F6F6F6") <strong>Conpes 3700 de 2011</strong>
+                td(colspan="3")(style="background-color:#F6F6F6") <strong>CONPES 3700 de 2011</strong>
                 td(colspan="3")(style="background-color:#F6F6F6") Estrategia institucional para la articulación de políticas y acciones en materia de cambio climático en Colombia.
               tr
-                td(colspan="3")(style="background-color:#FFFF") <strong>Conpes 3874 de 2016</strong>
+                td(colspan="3")(style="background-color:#FFFF") <strong>CONPES 3874 de 2016</strong>
                 td(colspan="3")(style="background-color:#FFFF") Política nacional para la gestión integral de residuos sólidos.
               tr
-                td(colspan="3")(style="background-color:#F6F6F6") <strong>Conpes 3943 de 2018</strong>
+                td(colspan="3")(style="background-color:#F6F6F6") <strong>CONPES 3943 de 2018</strong>
                 td(colspan="3")(style="background-color:#F6F6F6") Política para el mejoramiento de la calidad del aire.
               tr
-                td(colspan="3")(style="background-color:#FFFF") <strong>Conpes 3918 de 2018</strong>
+                td(colspan="3")(style="background-color:#FFFF") <strong>CONPES 3918 de 2018</strong>
                 td(colspan="3")(style="background-color:#FFFF") Estrategia para la implementación de los objetivos de desarrollo sostenible (ODS) en Colombia.
               tr
-                td(colspan="3")(style="background-color:#F6F6F6") <strong>Conpes 4058 de 2021</strong>
+                td(colspan="3")(style="background-color:#F6F6F6") <strong>CONPES 4058 de 2021</strong>
                 td(colspan="3")(style="background-color:#F6F6F6") Reducción de las condiciones de riesgo de desastres y adaptación a los fenómenos de variabilidad climática. 
               tr
-                td(colspan="3")(style="background-color:#FFFF") <strong>Conpes 4075 de 2022</strong>
+                td(colspan="3")(style="background-color:#FFFF") <strong>CONPES 4075 de 2022</strong>
                 td(colspan="3")(style="background-color:#FFFF") Política nacional de transición energética.  
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -132,15 +150,15 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-6.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En cuanto a los documentos Conpes relacionados con la salud ambiental se observa que a partir del año 2000 el país ha dado pasos importantes respecto a temas como el manejo de residuos sólidos, el desarrollo sostenible calidad del aire, la calidad del agua, la adaptación al cambio climático y la transición energética.
+        p.mb-0 En cuanto a los documentos CONPES relacionados con la salud ambiental se observa que a partir del año 2000 el país ha dado pasos importantes respecto a temas como el manejo de residuos sólidos, el desarrollo sostenible calidad del aire, la calidad del agua, la adaptación al cambio climático y la transición energética.
           br
           br
-          | En tal sentido, llama la atención el Conpes 3918 de 2018, el cual se desarrolló con el fin de definir las estrategias para la implementación de los Objetivos de Desarrollo Sostenible ODS que dictan a los países los lineamientos para la formulación de políticas que busquen poner fin a la pobreza, proteger el planeta y garantizar que para en el 2030 todas las personas disfruten de paz y prosperidad.
+          | En tal sentido, llama la atención el CONPES 3918 de 2018, el cual se desarrolló con el fin de definir las estrategias para la implementación de los Objetivos de Desarrollo Sostenible ODS, que dictan a los países los lineamientos para la formulación de políticas que busquen poner fin a la pobreza, proteger el planeta y garantizar que para en el 2030, todas las personas disfruten de paz y prosperidad.
 
     p.mb-5 En lo referente a las resoluciones que se han emitido en materia de salud y ambiente, como se muestra en la siguiente tabla, se destacan aquellas relacionadas con las emisiones atmosféricas que son responsables de la mayoría de la contaminación global. Igualmente, es importante observar el papel preponderante que se da a los mecanismos de vigilancia y control sanitario a los productos de consumo humano y aquellas que ponen en primer plano la gestión integral de la salud pública, con lo cual se aborda a la enfermedad como el resultado de una serie de interacciones que se dan dentro del entorno en el que las personas desarrollan su cotidianidad:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="La tabla 2, presenta las resoluciones nacionales relacionadas con la salud ambiental entre los años 1979 a 2015.")
+      .col-10.col-md-10.col-lg-10(data-aos="fade-right", alt="La tabla 2, presenta las resoluciones nacionales relacionadas con la salud ambiental entre los años 1979 a 2015.")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Tabla 2.] <em>Resoluciones relacionadas con la salud ambiental 1979- 2015 en Colombia</em>
         .tabla-b.color-acento-contenido
@@ -168,7 +186,7 @@
     p.mb-5 Para la comprensión de la normativa relacionada con la salud ambiental, la siguiente tabla muestra algunos de los decretos que la reglamentan. En este sentido, cobran importancia conceptos como el de “ecología”, el cual sienta las bases para la comprensión de las dinámicas que se dan entre los seres vivos y el medio en el que habitan.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="La tabla 3, especifica los decretos expediros en materia de salud ambiental en Colombia entre los años 1974 y 2016.")
+      .col-10.col-md-10.col-lg-10(data-aos="fade-right", alt="La tabla 3, especifica los decretos expediros en materia de salud ambiental en Colombia entre los años 1974 y 2016.")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Tabla 3.] <em>Decretos expedidos en materia de salud ambiental en Colombia 1974 -2016</em>
         .tabla-b.color-acento-contenido
@@ -228,29 +246,29 @@
       //- estas clases tambien tienen un modificador --borde
       .col-md.tarjeta.color-primario1.p-5
         .row.justify-content-center.mb-4
-          .col-6
+          .col-4
             figure
-              img(src='@/assets/curso/temas/tema1/decorador-1.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/decorador-1.png', alt='Texto que describa la imagen')
           
-        h2.text-center Vertimiento
-        p En el Decreto 1541 de 1978 se hace un primer acercamiento a este concepto dando claridad sobre que estos son materiales de desecho que se vierten en algún lugar y que proceden de diversas actividades humanas. Igualmente se sientan las bases para su clasificación y tratamiento. 
+        h3.text-center Vertimiento
+        p En el Decreto 1541 de 1978, se hace un primer acercamiento a este concepto dando claridad sobre que estos son materiales de desecho que se vierten en algún lugar y que proceden de diversas actividades humanas. Igualmente se sientan las bases para su clasificación y tratamiento. 
 
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
       .col-md.tarjeta.color-secundario1.p-5
         .row.justify-content-center.mb-4
-          .col-6
+          .col-4
             figure
-              img(src='@/assets/curso/temas/tema1/decorador-2.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/decorador-2.png', alt='Texto que describa la imagen')
           
-        h2.text-center Contaminación atmosférica
-        p Este concepto se relaciona con la presencia de agentes químicos, físicos o biológicos que alteran las características de la atmósfera por lo que respecto a las emisiones de contaminantes de la atmósfera se destacan la Ley 0629 de 2000, por la cual se aprueba el Protocolo de Kyoto, así como la Ley 0023 de 1973 y la Ley 0009 de 1979 en las que se establecen parámetros respecto a los niveles permitidos de material particulado que se pueden expulsar a la atmósfera.
+        h3.text-center Contaminación atmosférica
+        p Este concepto se relaciona con la presencia de agentes químicos, físicos o biológicos que alteran las características de la atmósfera por lo que respecto a las emisiones de contaminantes de la atmósfera se destacan la Ley 0629 de 2000, por la cual se aprueba el Protocolo de Kyoto, así como la Ley 0023 de 1973 y la Ley 0009 de 1979, en las que se establecen parámetros respecto a los niveles permitidos de material particulado que se pueden expulsar a la atmósfera.
 
     p.mb-5 Basado en lo anterior, es importante señalar normas como la <strong>Ley 0388 de 1997, la Ley 0099 de 1993 y la Ley 0430 de 1998</strong> en las que se dictan disposiciones frente al ordenamiento territorial y las restricciones sobre el manejo de residuos peligrosos que pueden ser altamente perjudiciales para la salud cuando no se manejan de una forma correcta. Estas y otras leyes complementarias se describen a continuación.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-12(data-aos="fade-right", alt="En la tabla 4, se describen las leyes relacionadas con aspectos de salud ambiental para el territorio nacional, entre los años 1973 y 2015.")
+      .col-10.col-md-10.col-lg-10(data-aos="fade-right", alt="En la tabla 4, se describen las leyes relacionadas con aspectos de salud ambiental para el territorio nacional, entre los años 1973 y 2015.")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Tabla 4.] <em>Leyes relacionadas con aspectos de salud ambiental en Colombia 1973 - 2015</em>
         .tabla-b.color-acento-contenido
@@ -270,7 +288,7 @@
                 td(colspan="3")(style="background-color:#F6F6F6") Creación del Ministerio de Medio Ambiente. Licencias ambientales, fundamentos de política ambiental, estructura del Sistema Nacional Ambiental. 
               tr
                 td(colspan="3")(style="background-color:#FFFF") <strong>Ley 0100 de 1993</strong>
-                td(colspan="3")(style="background-color:#FFFF") Creación del Instituto Nacional de Vigilancia de Medicamentos y Alimentos. Invima. 
+                td(colspan="3")(style="background-color:#FFFF") Creación del Instituto Nacional de Vigilancia de Medicamentos y Alimentos. INVIMA. 
               tr
                 td(colspan="3")(style="background-color:#F6F6F6") <strong>Ley 0232 de 1995</strong>
                 td(colspan="3")(style="background-color:#F6F6F6") Disposiciones para el funcionamiento de establecimientos comerciales. 
@@ -296,14 +314,15 @@
                 td(colspan="3")(style="background-color:#F6F6F6") <strong>Ley 1751 de 2015</strong>
                 td(colspan="3")(style="background-color:#F6F6F6") Garantizar el derecho fundamental a la salud, regularlo y establecer sus mecanismos de protección.  
     
-    p.mb-5 Finalmente, respecto a la inocuidad alimentaria, en la Resolución 1229 de 2013 y en la Ley 009 de 1979 se establecen los parámetros a evaluar en los procesos de Inspección, Vigilancia y Control (IVC) por medio de los cuales se hace seguimiento a los establecimientos dedicados a la producción, distribución y consumo de alimentos. Asimismo, se fijan parámetros para el desarrollo de otras actividades comerciales que suponen algún riesgo para la salud humana como:
+    p.mb-5 Finalmente, respecto a la inocuidad alimentaria, en la Resolución 1229 de 2013 y en la Ley 009 de 1979, se establecen los parámetros a evaluar en los procesos de Inspección, Vigilancia y Control (IVC) por medio de los cuales se hace seguimiento a los establecimientos dedicados a la producción, distribución y consumo de alimentos. Asimismo, se fijan parámetros para el desarrollo de otras actividades comerciales que suponen algún riesgo para la salud humana como:
 
-    SlyderB.mb-5(:datos="datosSlyder")
+    .BGIMG02.p-4
+      SlyderB.mb-5(:datos="datosSlyder")
 
     Separador 
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2. Conpes para la implementación de los objetivos de desarrollo sostenible en Colombia
+      h2 1.2. CONPES para la implementación de los objetivos de desarrollo sostenible en Colombia
 
     .row.mb-5(data-aos="fade-right")
       .col-5
@@ -313,20 +332,20 @@
         p Como resultado del trabajo adelantado por las Naciones Unidas y de la ratificación de los compromisos de los países miembros en materia de protección ambiental y protección del entorno natural se formularon 17 Objetivos de Desarrollo Sostenible (ODS) a nivel global, los cuales contarían con esquemas de seguimiento determinados por cada Estado que hace parte de las Naciones Unidas. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-12.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Objetivos de Desarrollo Sostenible</em>
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/img-11-1.svg', alt='La figura 3 indica los 17 Objetivos de Desarrollo Sostenible -ODS, declarados por las Naciones Unidas.')
 
-    .row.mt-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+    .row.mt-5.mb-4
+      .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Objetivos de Desarrollo Sostenible</em>
         figure
           img(src='@/assets/curso/temas/tema1/img-11-2.svg', alt='La figura 3 indica los 17 Objetivos de Desarrollo Sostenible -ODS, declarados por las Naciones Unidas.') 
 
-    .tarjeta.tarjeta.p-4.mb-5.mt-5(style="background-color:#E6EBFB")(data-aos="flip-up")
+    .tarjeta.tarjeta.p-4.mb-5(style="background-color:#E6EBFB")(data-aos="flip-up")
       .row.justify-content-center.align-items-center 
         .col-lg-3.mb-3
           figure(data-aos="fade-right")
@@ -347,7 +366,13 @@
 
     p.mb-5 Si bien la implementación de los ODS supone un reto importante, vale la pena señalar que Colombia es líder en la región en cuanto al cumplimiento de los compromisos asumidos y que la implementación de los proyectos, inversiones y planes de desarrollo locales y regionales siempre tienen como referente su aporte al cumplimiento de estos objetivos y sus metas.
 
-    h3.mb-5(style="color:#455B2D") Metas de los Objetivos de Desarrollo Sostenible
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Metas de los Objetivos de Desarrollo Sostenible
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-md-8
@@ -374,7 +399,7 @@
     p.mb-5 En la siguiente figura se presentan los avances que ha tenido el país en lo relacionado con la implementación de los ODS y cuáles de ellos han sido los que más cerca se encuentran de completar la meta al año 2030.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-12.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Promedio de avance en Colombia por ODS respecto a la meta 2030</em>
         figure
@@ -382,7 +407,7 @@
           figcaption Nota. Tomada de Secretaría Técnica Comisión ODS -DSEPP-DNP (2021).
 
     .row.mt-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
         a.anexo.mb-4(:href="obtenerLink('/downloads/figura4_promediodeavanceporODS.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
@@ -493,15 +518,15 @@
     p.mb-5 Para asegurar que las actuaciones de las autoridades en lo relacionado con la garantía de la convivencia y el trato respetuoso entre semejantes sea una realidad, en el desarrollo del manual de convivencia ciudadana, en este caso denominado “Código de Policía y Convivencia” se establecen los siguientes principios:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Principios fundamentales del Código de Policía</em>
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/img-17-1.svg', alt='La figura 5, establece los 13 principios fundamentales que dicta el código de policía.')
           figcaption Nota. Tomada de la Ley 1801 de 2016. Código Nacional de Policía. 
 
-    .row.mt-5.mb-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+    .row.mt-5.mb-4
+      .col-10.col-md-10.col-lg-8.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Principios fundamentales del Código de Policía</em>
         figure
@@ -555,19 +580,19 @@
         p Igualmente, dentro del código se establecen algunos comportamientos que pueden poner en peligro la salud pública por el consumo de alimentos y el manejo y disposición de los residuos sólidos. Entre los principales comportamientos que se destacan en este aparte del documento se encuentran:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+      .col-10.col-md-10.col-lg-12.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Comportamientos contrarios a la salud pública</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema1/img-21-1.svg', alt='')
+          img.mb-3(src='@/assets/curso/temas/tema1/img-21-1.svg', alt='La figura 6, establece algunos comportamientos que van en contravía con la salud pública, tanto en el manejo de materia de consumo, como en relación a la limpieza y recolección de residuos, escombros y malas prácticas habitacionales.')
           figcaption Nota. Tomada de Código Nacional de Policía y Convivencia. 
 
-    .row.mt-5.mb-5
-      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+    .row.mt-5.mb-4
+      .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Comportamientos contrarios a la salud pública</em>
         figure
-          img(src='@/assets/curso/temas/tema1/img-21-2.svg', alt='') 
+          img(src='@/assets/curso/temas/tema1/img-21-2.svg', alt='La figura 6, establece algunos comportamientos que van en contravía con la salud pública, tanto en el manejo de materia de consumo, como en relación a la limpieza y recolección de residuos, escombros y malas prácticas habitacionales.') 
           figcaption Nota. Tomada de Código Nacional de Policía y Convivencia. 
 
     p.mb-5 En sus componentes finales, el Código Nacional de Policía menciona los comportamientos contrarios a la ley en aspectos relacionados con el uso y tenencia de mascotas, los comportamientos que afectan la integridad urbanística, el manejo que se debe dar al espacio público en cualquiera de sus dimensiones y las medidas correctivas que las autoridades de policía pueden emplear en determinado momento con el fin de asegurar el cumplimiento efectivo de los compromisos asumidos por la ciudadanía.
@@ -599,7 +624,13 @@
         p El marco normativo nacional en materia de seguridad sanitaria y ambiental tiene una estrecha relación con la normatividad internacional, la cual, indudablemente, se convierte en un referente para el desarrollo de los planes y programas encaminados a la atención de las necesidades de protección de la salud de las personas a través de la gestión integral de los mecanismos que garanticen un ambiente saludable y generador de bienestar.
         p Entre la normativa internacional que de una u otra forma incide en la manera como se abordan los temas de salud en Colombia se encuentran:
 
-    h3.mb-5(style="color:#455B2D") Convenios
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Convenios
 
     p.mb-5 Los siguientes convenios tratan temas relacionados con control, disminución, generación y manejo de desechos peligrosos.
 
@@ -625,7 +656,13 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-22-2.svg', alt='') 
 
-    h3.mb-5(style="color:#455B2D") Conferencias
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Conferencias
 
     p.mb-5 Buscan establecer y garantizar el desarrollo humano (población y desarrollo), tratamiento ecológico y racional de los desechos peligrosos y sanciones por daños ambientales; estas son explicadas a continuación
 
@@ -655,82 +692,90 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-23-2.svg', alt='') 
     
-    h3.mb-5(style="color:#455B2D") Varios
+    .row.align-items-center.mb-2
+      .col-auto.pe-0(style="z-index:2")
+        figure
+          img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
+      .col-auto.bg-c8(style="z-index:1")
+        .p-2
+          h3.mb-0.ms-3 Varios
 
     p.mb-5 A continuación, se relaciona legislación internacional relacionada con la seguridad sanitaria y ambiental: desarrollo sostenible, derechos humanos, sociales y económicos, entre otros, a saber:
 
-    PasosA.color-primario.mb-5(tipo="n")
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h3 Objetivos de Desarrollo Sostenible
-          p Definen la hoja de ruta de los países miembros de la ONU frente a la reducción de las inequidades generadas por la pobreza y la falta de oportunidades de las personas menos favorecidas. En materia de salud el objetivo 3 “salud y bienestar”, se ocupa de disminuir las barreras para el acceso a los servicios de salud y la atención oportuna.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-10(data-aos="fade-down-right")
+        PasosA.color-primario.mb-5(tipo="n")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              h3 Objetivos de Desarrollo Sostenible
+              p Definen la hoja de ruta de los países miembros de la ONU frente a la reducción de las inequidades generadas por la pobreza y la falta de oportunidades de las personas menos favorecidas. En materia de salud el objetivo 3 “salud y bienestar”, se ocupa de disminuir las barreras para el acceso a los servicios de salud y la atención oportuna.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema1/img-24.png', alt='Texto que describa la imagen')
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/tema1/img-24.png', alt='Texto que describa la imagen')
 
-      .row
-        .col-md-6.mb-4.mb-md-0
-          figure
-            img(src='@/assets/curso/temas/tema1/img-25.png', alt='Texto que describa la imagen')
+          .row
+            .col-md-6.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img-25.png', alt='Texto que describa la imagen')
 
-        .col-md-6
-          h3 Protocolo de Kioto de la Convención Marco de Naciones Unidas sobre el cambio climático
-          p Fue creado para reducir las emisiones de gases de efecto invernadero a nivel global. Se llevó a cabo con el fin de poner en práctica lo acordado en la Convención Marco de las Naciones Unidas sobre Cambio Climático.
+            .col-md-6
+              h3 Protocolo de Kioto de la Convención Marco de Naciones Unidas sobre el cambio climático
+              p Fue creado para reducir las emisiones de gases de efecto invernadero a nivel global. Se llevó a cabo con el fin de poner en práctica lo acordado en la Convención Marco de las Naciones Unidas sobre Cambio Climático.
 
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h3 Reglamento sanitario internacional
-          p Este reglamento otorga el arreglo jurídico que establece las capacidades nacionales básicas en lo concerniente al manejo de los eventos agudos de salud pública de importancia potencial o real. Entre otras cosas, tiene la finalidad de prevenir la propagación internacional de enfermedades y controlarlas en caso de que se presente dicha propagación.
+          .row
+            .col-md-6.mb-4.mb-md-0
+              h3 Reglamento sanitario internacional
+              p Este reglamento otorga el arreglo jurídico que establece las capacidades nacionales básicas en lo concerniente al manejo de los eventos agudos de salud pública de importancia potencial o real. Entre otras cosas, tiene la finalidad de prevenir la propagación internacional de enfermedades y controlarlas en caso de que se presente dicha propagación.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema1/img-26.png', alt='Texto que describa la imagen')
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/tema1/img-26.png', alt='Texto que describa la imagen')
 
-      .row
-        .col-md-6.mb-4.mb-md-0
-          figure
-            img(src='@/assets/curso/temas/tema1/img-27.png', alt='Texto que describa la imagen')
+          .row
+            .col-md-6.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img-27.png', alt='Texto que describa la imagen')
 
-        .col-md-6
-          h3 Carta de las Naciones Unidas
-          p Artículo 55, numeral b. Las Naciones Unidas promoverán la solución de problemas internacionales de carácter económico, social y sanitario y de otros problemas conexos.
+            .col-md-6
+              h3 Carta de las Naciones Unidas
+              p Artículo 55, numeral b. Las Naciones Unidas promoverán la solución de problemas internacionales de carácter económico, social y sanitario y de otros problemas conexos.
 
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h3 Declaración universal de los derechos humanos
-          p Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, salud y bienestar.
+          .row
+            .col-md-6.mb-4.mb-md-0
+              h3 Declaración universal de los derechos humanos
+              p Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, salud y bienestar.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema1/img-28.png', alt='Texto que describa la imagen')
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/tema1/img-28.png', alt='Texto que describa la imagen')
 
-      .row
-        .col-md-6.mb-4.mb-md-0
-          figure
-            img(src='@/assets/curso/temas/tema1/img-29.png', alt='Texto que describa la imagen')
+          .row
+            .col-md-6.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img-29.png', alt='Texto que describa la imagen')
 
-        .col-md-6
-          h3 Pacto internacional de derechos económicos, sociales y culturales
-          p Este pacto internacional en el artículo 7° dice “los Estados presentes en el pacto reconocen el derecho de toda persona al goce de condiciones de trabajo equitativas y satisfactorias que le aseguren en especial: […] (b) la seguridad y la higiene en el trabajo […]”. En el artículo 12 se hace énfasis en la importancia de la salud física y mental, así como del mejoramiento en todos los aspectos de la higiene del trabajo y del medio ambiente e, igualmente, la prevención y el tratamiento de las enfermedades epidémicas, endémicas, profesionales y de otra índole.
-      
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h3 Convención de los derechos del niño
-          p En el artículo 24 se menciona la importancia de combatir las enfermedades y la malnutrición en el marco de la atención primaria en salud teniendo en cuenta aspectos como el suministro de alimentos nutritivos y agua potable teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente.
+            .col-md-6
+              h3 Pacto internacional de derechos económicos, sociales y culturales
+              p Este pacto internacional en el artículo 7° dice “los Estados presentes en el pacto reconocen el derecho de toda persona al goce de condiciones de trabajo equitativas y satisfactorias que le aseguren en especial: […] (b) la seguridad y la higiene en el trabajo […]”. En el artículo 12 se hace énfasis en la importancia de la salud física y mental, así como del mejoramiento en todos los aspectos de la higiene del trabajo y del medio ambiente e, igualmente, la prevención y el tratamiento de las enfermedades epidémicas, endémicas, profesionales y de otra índole.
+          
+          .row
+            .col-md-6.mb-4.mb-md-0
+              h3 Convención de los derechos del niño
+              p En el artículo 24 se menciona la importancia de combatir las enfermedades y la malnutrición en el marco de la atención primaria en salud teniendo en cuenta aspectos como el suministro de alimentos nutritivos y agua potable teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema1/img-30.png', alt='Texto que describa la imagen')
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/tema1/img-30.png', alt='Texto que describa la imagen')
 
-      .row
-        .col-md-6.mb-4.mb-md-0
-          figure
-            img(src='@/assets/curso/temas/tema1/img-31.png', alt='Texto que describa la imagen')
+          .row
+            .col-md-6.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/tema1/img-31.png', alt='Texto que describa la imagen')
 
-        .col-md-6
-          h3 Código internacional de conducta para la distribución y utilización de pesticidas
-          p Este código establece las bases para el manejo racional de los pesticidas y la promoción de prácticas que reduzcan los riesgos asociados a estos productos para la población y para el medio ambiente.
+            .col-md-6
+              h3 Código internacional de conducta para la distribución y utilización de pesticidas
+              p Este código establece las bases para el manejo racional de los pesticidas y la promoción de prácticas que reduzcan los riesgos asociados a estos productos para la población y para el medio ambiente.
 
     .tarjeta.tarjeta.p-4.mb-5.mt-5(style="background-color:#EAF2E1")(data-aos="flip-up")
       .row.justify-content-center.align-items-center 
@@ -764,13 +809,13 @@ export default {
       {
         titulo: 'Seguridad química',
         texto:
-          'En este importante aspecto que trata sobre los aspectos para evitar las afectaciones a la salud por efecto de la mala manipulación o la exposición a las sustancias químicas se destacan normas como la Resolución 2400 de 1979 del Ministerio de Trabajo, el Decreto 2044 de 1988 que da lineamientos sobre el transporte de este tipo de sustancias y el Decreto 321 de 1999 en el cual se dictan las bases para el plan nacional de contingencias contra el derrame de hidrocarburos, derivados y sustancias nocivas, entre otras.',
+          'En este importante aspecto que trata sobre los aspectos para evitar las afectaciones a la salud por efecto de la mala manipulación o la exposición a las sustancias químicas se destacan normas como la Resolución 2400 de 1979 del Ministerio de Trabajo, el Decreto 2044 de 1988, que da lineamientos sobre el transporte de este tipo de sustancias y el Decreto 321 de 1999, en el cual se dictan las bases para el plan nacional de contingencias contra el derrame de hidrocarburos, derivados y sustancias nocivas, entre otras.',
         imagen: require('@/assets/curso/temas/tema1/img-8.png'),
       },
       {
         titulo: 'Gestión de residuos',
         texto:
-          'Este es uno de los campos que tal vez más normatividad relacionada tiene, pues destacan normas como el documento Conpes 2750 de 1994 que define la política sobre el manejo de residuos sólidos, la Ley 430 de 1998 que establece normas prohibitivas en materia ambiental referentes a los desechos peligrosos y la Ley 142 de 1994 que establece el régimen de servicios públicos domiciliarios.',
+          'Este es uno de los campos que tal vez más normatividad relacionada tiene, pues destacan normas como el documento CONPES 2750 de 1994, que define la política sobre el manejo de residuos sólidos, la Ley 430 de 1998, que establece normas prohibitivas en materia ambiental referentes a los desechos peligrosos y la Ley 142 de 1994, que establece el régimen de servicios públicos domiciliarios.',
         imagen: require('@/assets/curso/temas/tema1/img-9.png'),
       },
     ],
