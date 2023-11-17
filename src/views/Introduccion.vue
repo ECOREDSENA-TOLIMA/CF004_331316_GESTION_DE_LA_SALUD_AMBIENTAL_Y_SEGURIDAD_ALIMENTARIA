@@ -17,7 +17,10 @@
         p Por medio de la normatividad relacionada con el tema de salud ambiental es posible identificar las estrategias adoptadas por el país en cuanto a la manera como se articula la respuesta institucional para hacer frente a las problemáticas globales que de una u otra forma han incidido en las condiciones de vida y salud de la población mundial.
         p Se invita al aprendiz a ver el video introductorio del componente formativo:
 
-
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/_di9TYoj2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
 
 
     
