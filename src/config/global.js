@@ -196,7 +196,7 @@ export default {
     {
       termino: 'Atención primaria en salud',
       significado:
-        'Garantía de los servicios de salud a la población los cuales abarcan diferentes ciclos vitales y acciones que van desde la promoción y la prevención hasta el tratamiento de la enfermedad y la rehabilitación.',
+        'Garantía de los servicios de salud a la población, los cuales abarcan diferentes ciclos vitales y acciones que van desde la promoción y la prevención hasta el tratamiento de la enfermedad y la rehabilitación.',
     },
     {
       termino: 'Material particulado',
@@ -288,6 +288,12 @@ export default {
       link:
         'http://www.saludcapital.gov.co/Paginas2/MecanismosdeParticipacionCiudadana.aspx',
     },
+    {
+      referencia:
+        'Unidad de Planeación Minero - Energética UMPE. (s. f.). Normatividad ambiental y sanitaria. ',
+      link:
+        'https://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm',
+    },
   ],
   creditos: [
     {
@@ -295,7 +301,7 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {

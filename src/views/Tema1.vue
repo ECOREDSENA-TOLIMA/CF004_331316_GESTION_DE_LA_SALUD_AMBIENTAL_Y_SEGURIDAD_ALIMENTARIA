@@ -8,11 +8,11 @@
       h1 Normas y lineamientos a nivel nacional e internacional en seguridad sanitaria y ambiental  
 
     .row.mb-4(data-aos="fade-right")
-      .col-5
+      .col-5.col-ipad
         img(src='@/assets/curso/temas/tema1/img-1.png')
-      .col-7
+      .col-7.col-ipad
         p La seguridad sanitaria y ambiental es un asunto de suma importancia para los países debido a la influencia que tienen los factores ambientales sobre la salud humana y la calidad de vida de la población.
-        p A través de la gestión integral de los recursos naturales y la seguridad sanitaria y ambiental es posible reducir los factores de riesgo a los cuales se expone la población en diferentes entornos y que pueden derivar en enfermedad y, por consiguiente, en un deterioro de las capacidades productivas.
+        p A través de la gestión integral de los recursos naturales y la seguridad sanitaria y ambiental, es posible reducir los factores de riesgo a los cuales se expone la población en diferentes entornos y que pueden derivar en enfermedad y, por consiguiente, en un deterioro de las capacidades productivas.
         p A continuación, se hace una revisión de los lineamientos nacionales e internacionales que se tienen como referencia para el diseño e implementación de políticas de protección de la salud a través de la gestión eficiente de recursos naturales y la promoción de un ambiente saludable.
 
     Separador 
@@ -50,7 +50,7 @@
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/img-3-1.svg', alt='La figura 1, indica los principales artículos de la Constitución Política Nacional que abordan el tema ambiental.')
 
-    .row.mt-5.mb-5
+    .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Principales artículos de la Constitución Política de Colombia de 1991 relacionados con salud ambiental</em>
@@ -84,14 +84,14 @@
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/img-5-1.svg', alt='La figura 2, presenta los 4 pilares del plan decenal de salud pública 2022-2031: 1. Protección social, 2. Cultura para la vida y la salud, 3. Ambiente y salud y, 4. Integralidad en salud.')
 
-    .row.mt-5.mb-5
+    .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-10.col-md-10.col-lg-7.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Pilares del Plan Decenal de Salud Pública 2022 - 2031</em>
         figure
           img(src='@/assets/curso/temas/tema1/img-5-2.svg', alt='La figura 2, presenta los 4 pilares del plan decenal de salud pública 2022-2031: 1. Protección social, 2. Cultura para la vida y la salud, 3. Ambiente y salud y, 4. Integralidad en salud.') 
 
-    p.mb-5 Igualmente, dentro de los cuatro pilares en los que se basa el Plan Decenal de Salud Pública 2022 – 2031 se encuentra el de “Ambiente y Salud” en el que se hace énfasis en los determinantes ambientales de la salud los cuales se relacionan con la disponibilidad y calidad del agua, el saneamiento, la gestión de los residuos sólidos, la higiene, los entornos saludables y la planificación urbana.
+    p.mb-5 Igualmente, dentro de los cuatro pilares en los que se basa el Plan Decenal de Salud Pública 2022 – 2031 se encuentra el de “Ambiente y Salud” en el que se hace énfasis en los determinantes ambientales de la salud, los cuales se relacionan con la disponibilidad y calidad del agua, el saneamiento, la gestión de los residuos sólidos, la higiene, los entornos saludables y la planificación urbana.
 
     .row.align-items-center.mb-2
       .col-auto.pe-0(style="z-index:2")
@@ -150,7 +150,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-6.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En cuanto a los documentos CONPES relacionados con la salud ambiental se observa que a partir del año 2000 el país ha dado pasos importantes respecto a temas como el manejo de residuos sólidos, el desarrollo sostenible calidad del aire, la calidad del agua, la adaptación al cambio climático y la transición energética.
+        p.mb-0 En cuanto a los documentos CONPES relacionados con la salud ambiental se observa que a partir del año 2000 el país ha dado pasos importantes respecto a temas como el manejo de residuos sólidos, el desarrollo sostenible, calidad del aire, la calidad del agua, la adaptación al cambio climático y la transición energética.
           br
           br
           | En tal sentido, llama la atención el CONPES 3918 de 2018, el cual se desarrolló con el fin de definir las estrategias para la implementación de los Objetivos de Desarrollo Sostenible ODS, que dictan a los países los lineamientos para la formulación de políticas que busquen poner fin a la pobreza, proteger el planeta y garantizar que para en el 2030, todas las personas disfruten de paz y prosperidad.
@@ -233,7 +233,7 @@
                 td(colspan="3")(style="background-color:#F6F6F6") Creación de la Agencia Nacional de Licencias Ambientales. 
               tr
                 td(colspan="3")(style="background-color:#F6F6F6") <strong>Decreto 2078 de 2012</strong>
-                td(colspan="3")(style="background-color:#F6F6F6") Se establece la estructura del Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima), y se determinan las funciones de sus dependencias.
+                td(colspan="3")(style="background-color:#F6F6F6") Se establece la estructura del Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA), y se determinan las funciones de sus dependencias.
               tr
                 td(colspan="3")(style="background-color:#F6F6F6") <strong>Decreto 0780 de 2016</strong>
                 td(colspan="3")(style="background-color:#F6F6F6") Sistema de vigilancia en salud pública.  
@@ -263,7 +263,7 @@
               img(src='@/assets/curso/temas/tema1/decorador-2.png', alt='Texto que describa la imagen')
           
         h3.text-center Contaminación atmosférica
-        p Este concepto se relaciona con la presencia de agentes químicos, físicos o biológicos que alteran las características de la atmósfera por lo que respecto a las emisiones de contaminantes de la atmósfera se destacan la Ley 0629 de 2000, por la cual se aprueba el Protocolo de Kyoto, así como la Ley 0023 de 1973 y la Ley 0009 de 1979, en las que se establecen parámetros respecto a los niveles permitidos de material particulado que se pueden expulsar a la atmósfera.
+        p Este concepto se relaciona con la presencia de agentes químicos, físicos o biológicos que alteran las características de la atmósfera, por lo que respecto a las emisiones de contaminantes de la atmósfera se destacan la Ley 0629 de 2000, por la cual se aprueba el Protocolo de Kyoto, así como la Ley 0023 de 1973 y la Ley 0009 de 1979, en las que se establecen parámetros respecto a los niveles permitidos de material particulado que se pueden expulsar a la atmósfera.
 
     p.mb-5 Basado en lo anterior, es importante señalar normas como la <strong>Ley 0388 de 1997, la Ley 0099 de 1993 y la Ley 0430 de 1998</strong> en las que se dictan disposiciones frente al ordenamiento territorial y las restricciones sobre el manejo de residuos peligrosos que pueden ser altamente perjudiciales para la salud cuando no se manejan de una forma correcta. Estas y otras leyes complementarias se describen a continuación.
 
@@ -325,11 +325,11 @@
       h2 1.2. CONPES para la implementación de los objetivos de desarrollo sostenible en Colombia
 
     .row.mb-5(data-aos="fade-right")
-      .col-5
+      .col-5.col-ipad.mb-3
         img(src='@/assets/curso/temas/tema1/img-10.png')
-      .col-7
+      .col-7.col-ipad
         p Con la adopción de la Agenda 2030 en el año 2015, los 193 países, Estados miembro de las Naciones Unidas, hicieron un llamado a nivel mundial con el objetivo de poner fin a la pobreza, proteger el planeta y mejorar las vidas y las perspectivas de las personas en todo el mundo. Cabe aclarar que el desarrollo sostenible se ha definido como aquel capaz de satisfacer las necesidades actuales, sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades. 
-        p Como resultado del trabajo adelantado por las Naciones Unidas y de la ratificación de los compromisos de los países miembros en materia de protección ambiental y protección del entorno natural se formularon 17 Objetivos de Desarrollo Sostenible (ODS) a nivel global, los cuales contarían con esquemas de seguimiento determinados por cada Estado que hace parte de las Naciones Unidas. 
+        p Como resultado del trabajo adelantado por las Naciones Unidas y de la ratificación de los compromisos de los países miembros en materia de protección ambiental y protección del entorno natural, se formularon 17 Objetivos de Desarrollo Sostenible (ODS) a nivel global, los cuales contarían con esquemas de seguimiento determinados por cada Estado que hace parte de las Naciones Unidas. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-12.desktop(data-aos="fade-right")
@@ -338,7 +338,7 @@
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/img-11-1.svg', alt='La figura 3 indica los 17 Objetivos de Desarrollo Sostenible -ODS, declarados por las Naciones Unidas.')
 
-    .row.mt-5.mb-4
+    .row.justify-content-center.align-items-center.mt-5.mb-4
       .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Objetivos de Desarrollo Sostenible</em>
@@ -351,7 +351,7 @@
           figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema1/decorador-3.svg', alt='Texto que describa la imagen')
         .col-lg-8
-          p El desarrollo sostenible está enfocado en construir un futuro inclusivo, sostenible y resiliente para las personas y el planeta y para poder conseguirlo es fundamental armonizar tres elementos básicos, que están interrelacionados y son esenciales para el bienestar de la sociedad:
+          p El desarrollo sostenible está enfocado en construir un futuro inclusivo, sostenible y resiliente para las personas, el planeta y para poder conseguirlo es fundamental armonizar tres elementos básicos, que están interrelacionados y son esenciales para el bienestar de la sociedad:
           ol.lista-ol
             li 
               span.text-bold 1. 
@@ -362,7 +362,7 @@
             li 
               span.text-bold 3. 
               | Protección del medio ambiente.
-          p Es así como, en el 2018, Colombia aprobó el Documento Conpes 3918 el cual establece las metas y las estrategias para el cumplimiento de la Agenda 2030 y los ODS en Colombia. Igualmente, en dicho documento se especifican los mecanismos a través de los cuales se evaluará el cumplimiento de cada una de las metas definidas, así como los indicadores, herramientas, responsables y recursos necesarios para llevarlas a feliz término.
+          p Es así como, en el 2018, Colombia aprobó el Documento Conpes 3918, el cual establece las metas y las estrategias para el cumplimiento de la Agenda 2030 y los ODS en Colombia. Igualmente, en dicho documento se especifican los mecanismos a través de los cuales se evaluará el cumplimiento de cada una de las metas definidas, así como los indicadores, herramientas, responsables y recursos necesarios para llevarlas a feliz término.
 
     p.mb-5 Si bien la implementación de los ODS supone un reto importante, vale la pena señalar que Colombia es líder en la región en cuanto al cumplimiento de los compromisos asumidos y que la implementación de los proyectos, inversiones y planes de desarrollo locales y regionales siempre tienen como referente su aporte al cumplimiento de estos objetivos y sus metas.
 
@@ -425,27 +425,27 @@
           ul.lista-ul.mb-3
             li.mb-0
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 4: educación de calidad.
+              | 4: Educación de calidad.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 8: trabajo decente y crecimiento económico.
+              | 8: Trabajo decente y crecimiento económico.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 9: industria, innovación e infraestructura.
+              | 9: Industria, innovación e infraestructura.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 12: producción y consumo responsable.
+              | 12: Producción y consumo responsable.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 14: vida submarina.
+              | 14: Vida submarina.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 17: alianzas para el logro de los objetivos.
+              | 17: Alianzas para el logro de los objetivos.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -458,23 +458,23 @@
           ul.lista-ul.mb-3
             li.mb-0
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 1: reducción de la pobreza.
+              | 1: Reducción de la pobreza.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 2: hambre cero.
+              | 2: Hambre cero.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 7: energía asequible y no contaminante.
+              | 7: Energía asequible y no contaminante.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 0: reducción de las desigualdades.
+              | 0: Reducción de las desigualdades.
             br
             li.mb-0 
               i.fas.fa-circle(style="color:#F9BCAB")
-              | 13: acción por el clima.
+              | 13: Acción por el clima.
 
     Separador 
 
@@ -482,10 +482,10 @@
       h2 1.3. Manual de convivencia
 
     .row.mb-4(data-aos="fade-right")
-      .col-4
+      .col-4.col-ipad.mb-3
         img(src='@/assets/curso/temas/tema1/img-16.png')
-      .col-8
-        p La Ley 1801 del 29 de julio de 2016 del Congreso de la República, dio origen al Código Nacional de Policía y Convivencia el cual:
+      .col-8.col-ipad
+        p La Ley 1801 del 29 de julio de 2016 del Congreso de la República, dio origen al Código Nacional de Policía y Convivencia, el cual:
         p Busca establecer las condiciones para la convivencia en el territorio nacional al propiciar el cumplimiento de los deberes y obligaciones de las personas naturales y jurídicas, así como determinar el ejercicio del poder, la función y la actividad de policía, de conformidad con la Constitución Política y el ordenamiento jurídico vigente (Ley 1801 de 2016). 
         p Dicho en otras palabras, este es un Código que buscar regular ciertas conductas ciudadanas con el fin de garantizar una convivencia armoniosa en un ámbito de respeto y tolerancia hacia el otro, para lo cual establece los siguientes objetivos específicos:
 
@@ -525,7 +525,7 @@
           img.mb-3(src='@/assets/curso/temas/tema1/img-17-1.svg', alt='La figura 5, establece los 13 principios fundamentales que dicta el código de policía.')
           figcaption Nota. Tomada de la Ley 1801 de 2016. Código Nacional de Policía. 
 
-    .row.mt-5.mb-4
+    .row.justify-content-center.align-items-center.mt-5.mb-4
       .col-10.col-md-10.col-lg-8.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Principios fundamentales del Código de Policía</em>
@@ -587,7 +587,7 @@
           img.mb-3(src='@/assets/curso/temas/tema1/img-21-1.svg', alt='La figura 6, establece algunos comportamientos que van en contravía con la salud pública, tanto en el manejo de materia de consumo, como en relación a la limpieza y recolección de residuos, escombros y malas prácticas habitacionales.')
           figcaption Nota. Tomada de Código Nacional de Policía y Convivencia. 
 
-    .row.mt-5.mb-4
+    .row.justify-content-center.align-items-center.mt-5.mb-4
       .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Comportamientos contrarios a la salud pública</em>
@@ -618,9 +618,9 @@
       h2 1.4. Normativa internacional establecida en seguridad sanitaria y ambiental
 
     .row.mb-5(data-aos="fade-right")
-      .col-4
+      .col-4.col-ipad.mb-3
         img(src='@/assets/curso/temas/tema1/decorador-7.svg')
-      .col-8
+      .col-8.col-ipad
         p El marco normativo nacional en materia de seguridad sanitaria y ambiental tiene una estrecha relación con la normatividad internacional, la cual, indudablemente, se convierte en un referente para el desarrollo de los planes y programas encaminados a la atención de las necesidades de protección de la salud de las personas a través de la gestión integral de los mecanismos que garanticen un ambiente saludable y generador de bienestar.
         p Entre la normativa internacional que de una u otra forma incide en la manera como se abordan los temas de salud en Colombia se encuentran:
 
@@ -651,7 +651,7 @@
         .h5.mb-2(style="color:#000") Procedimiento de consentimiento fundamentado previo aplicable a ciertos plaguicidas y productos químicos peligrosos objeto de comercio internacional
         p(style="color:#000") Este convenio busca promover la responsabilidad compartida frente al comercio internacional de ciertos productos químicos para proteger la salud humana y ambiental de posibles daños.
 
-    .row.mt-5.mb-5
+    .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema1/img-22-2.svg', alt='') 
@@ -681,13 +681,13 @@
 
       .tarjeta.color-acento-botones.p-3(x="55.5%" y="40%" numero="1")(style="background-color:#F1ECE6")
         .h5.mb-2(style="color:#000") Conferencia Internacional sobre población y desarrollo
-        p(style="color:#000") Celebrada en El Cairo en 1994 definió una nueva guía para la acción nacional e internacional en el área de población y desarrollo para los siguientes 20 años.
+        p(style="color:#000") Celebrada en El Cairo en 1994, definió una nueva guía para la acción nacional e internacional en el área de población y desarrollo para los siguientes 20 años.
       
       .tarjeta.color-acento-botones.p-3(x="29.5%" y="77.5%" numero="4")(style="background-color:#F1ECE6")
         .h5.mb-2(style="color:#000") Conferencia de las Naciones Unidas sobre medio ambiente y desarrollo (Cumbre de la Tierra), 1992 - Declaración de Río sobre Medio Ambiente y Desarrollo
         p(style="color:#000") Se establecen los principios sobre la manera como los Estados deben legislar respecto a las sanciones por daños ambientales causados en su territorio y cómo los agentes contaminantes deben cargar con el costo de sus acciones. Igualmente pone en el escenario el concepto de impactos ambientales.
 
-    .row.mt-5.mb-5
+    .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema1/img-23-2.svg', alt='') 
@@ -809,7 +809,7 @@ export default {
       {
         titulo: 'Seguridad química',
         texto:
-          'En este importante aspecto que trata sobre los aspectos para evitar las afectaciones a la salud por efecto de la mala manipulación o la exposición a las sustancias químicas se destacan normas como la Resolución 2400 de 1979 del Ministerio de Trabajo, el Decreto 2044 de 1988, que da lineamientos sobre el transporte de este tipo de sustancias y el Decreto 321 de 1999, en el cual se dictan las bases para el plan nacional de contingencias contra el derrame de hidrocarburos, derivados y sustancias nocivas, entre otras.',
+          'En este importante aspecto que trata sobre los aspectos para evitar las afectaciones a la salud por efecto de la mala manipulación o la exposición a las sustancias químicas, se destacan normas como la Resolución 2400 de 1979 del Ministerio de Trabajo, el Decreto 2044 de 1988, que da lineamientos sobre el transporte de este tipo de sustancias y el Decreto 321 de 1999, en el cual se dictan las bases para el plan nacional de contingencias contra el derrame de hidrocarburos, derivados y sustancias nocivas, entre otras.',
         imagen: require('@/assets/curso/temas/tema1/img-8.png'),
       },
       {
