@@ -7,10 +7,10 @@
         span 2
       h1 Determinantes sociales de la salud y su impacto en la calidad de vida
 
-    .row.mb-4(data-aos="fade-right")
-      .col-5.col-ipad-mb-3
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+      .col-12.col-md-4.col-lg-3.mb-3
         img(src='@/assets/curso/temas/tema2/img-1.png')
-      .col-7.col-ipad
+      .col-12.col-md-8.col-lg-9
         p De acuerdo con la Organización Mundial de la Salud, “la salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades”.
         p Teniendo en cuenta lo anterior, es posible concluir que la salud no se refiere únicamente a la ausencia de enfermedad, sino que esta se relaciona con otros ámbitos que van mucho más allá de las dolencias físicas y que involucra otros elementos como el bienestar social y la salud mental. En ese orden de ideas, es importante tener en cuenta que la salud se relaciona con múltiples aspectos de la vida de las personas y que esta se ve influenciada por lo que suceda a su alrededor, incluso, a una escala más grande que el entorno local. 
 
@@ -121,10 +121,10 @@
           img(src='@/assets/curso/temas/tema2/img-5-2.svg', alt='La figura 9, muestra cuales son los actores transversales de los procesos de salud y ambiente.') 
           figcaption Nota. Tomada de la Alcaldía de Medellín. Política integral de salud ambiental.
 
-    .row.mb-4(data-aos="fade-right")
-      .col-5.col-ipad.mb-3
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+      .col-12.col-md-4.col-lg-3.mb-3
         img(src='@/assets/curso/temas/tema2/img-6.png')
-      .col-7.col-ipad
+      .col-12.col-md-8.col-lg-9
         p En los procesos de construcción de políticas o programas de salud y salud ambiental se cuenta, por lo general, con el punto de vista de los principales actores que confluyen en un área determinada y que de una u otra forma se interrelacionan con el tema sanitario y ambiental. En el caso de las <strong>comunidades,</strong> es importante que estas se manifiesten y expongan sus inquietudes durante la formulación de las propuestas. 
         p Por su parte, los <strong>gremios</strong> están encargados de fortalecer los ámbitos de trabajo saludables y promover dentro de sus organizaciones las políticas de seguridad y salud en el trabajo. Respecto a la <strong>industria,</strong> la relación con los temas sanitarios se da frente al desarrollo de prácticas sostenibles y ambientalmente responsables. Por otro lado, el papel de la <strong>academia</strong> es fundamental para analizar los impactos de las actividades productivas sobre el entorno y generar estrategias de producción más limpia que no riñan con los intereses económicos y financieros.
     
@@ -374,10 +374,10 @@
         .p-2
           h3.mb-0.ms-3 Auditoría General de la República
 
-    .row.mb-5(data-aos="fade-right")
-      .col-5.col-ipad.mb-3
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-12.col-md-4.col-lg-3.mb-3
         img(src='@/assets/curso/temas/tema2/img-14.png')
-      .col-7.col-ipad
+      .col-12.col-md-8.col-lg-9
         p La Auditoría General de la República es un organismo de vigilancia de la gestión fiscal. Su objeto textual es “Ejercer la función de vigilancia de la gestión fiscal, en la modalidad más aconsejable, mediante los sistemas de control financiero, de gestión y de resultados, en desarrollo de los principios de eficiencia, economía y equidad” (Función Pública – Manual de Estructura del Estado). Su función es ejercer la vigilancia de la gestión fiscal conforme a los principios establecidos en la Constitución Política de Colombia de 1991, para lo cual el Auditor General cuenta con cierta autonomía en cuanto a la fijación de las políticas, los métodos para ejercer el control y la presentación de las rendiciones de cuentas de la entidad. 
         p Dentro de su estructura, cuenta con una oficina llamada Despacho del Auditor Auxiliar, de quien dependen la auditoría delegada para el Control Fiscal, las gerencias seccionales y la secretaría general. 
 

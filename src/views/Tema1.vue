@@ -324,10 +324,10 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2. CONPES para la implementación de los objetivos de desarrollo sostenible en Colombia
 
-    .row.mb-5(data-aos="fade-right")
-      .col-5.col-ipad.mb-3
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-12.col-md-4.col-lg-3.mb-3
         img(src='@/assets/curso/temas/tema1/img-10.png')
-      .col-7.col-ipad
+      .col-12.col-md-8.col-lg-9
         p Con la adopción de la Agenda 2030 en el año 2015, los 193 países, Estados miembro de las Naciones Unidas, hicieron un llamado a nivel mundial con el objetivo de poner fin a la pobreza, proteger el planeta y mejorar las vidas y las perspectivas de las personas en todo el mundo. Cabe aclarar que el desarrollo sostenible se ha definido como aquel capaz de satisfacer las necesidades actuales, sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades. 
         p Como resultado del trabajo adelantado por las Naciones Unidas y de la ratificación de los compromisos de los países miembros en materia de protección ambiental y protección del entorno natural, se formularon 17 Objetivos de Desarrollo Sostenible (ODS) a nivel global, los cuales contarían con esquemas de seguimiento determinados por cada Estado que hace parte de las Naciones Unidas. 
 
@@ -481,10 +481,10 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3. Manual de convivencia
 
-    .row.mb-4(data-aos="fade-right")
-      .col-4.col-ipad.mb-3
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+      .col-12.col-md-4.col-lg-3.mb-3
         img(src='@/assets/curso/temas/tema1/img-16.png')
-      .col-8.col-ipad
+      .col-12.col-md-8.col-lg-9
         p La Ley 1801 del 29 de julio de 2016 del Congreso de la República, dio origen al Código Nacional de Policía y Convivencia, el cual:
         p Busca establecer las condiciones para la convivencia en el territorio nacional al propiciar el cumplimiento de los deberes y obligaciones de las personas naturales y jurídicas, así como determinar el ejercicio del poder, la función y la actividad de policía, de conformidad con la Constitución Política y el ordenamiento jurídico vigente (Ley 1801 de 2016). 
         p Dicho en otras palabras, este es un Código que buscar regular ciertas conductas ciudadanas con el fin de garantizar una convivencia armoniosa en un ámbito de respeto y tolerancia hacia el otro, para lo cual establece los siguientes objetivos específicos:
@@ -617,10 +617,10 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4. Normativa internacional establecida en seguridad sanitaria y ambiental
 
-    .row.mb-5(data-aos="fade-right")
-      .col-4.col-ipad.mb-3
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-12.col-md-4.col-lg-3.mb-3
         img(src='@/assets/curso/temas/tema1/decorador-7.svg')
-      .col-8.col-ipad
+      .col-12.col-md-8.col-lg-9
         p El marco normativo nacional en materia de seguridad sanitaria y ambiental tiene una estrecha relación con la normatividad internacional, la cual, indudablemente, se convierte en un referente para el desarrollo de los planes y programas encaminados a la atención de las necesidades de protección de la salud de las personas a través de la gestión integral de los mecanismos que garanticen un ambiente saludable y generador de bienestar.
         p Entre la normativa internacional que de una u otra forma incide en la manera como se abordan los temas de salud en Colombia se encuentran:
 
