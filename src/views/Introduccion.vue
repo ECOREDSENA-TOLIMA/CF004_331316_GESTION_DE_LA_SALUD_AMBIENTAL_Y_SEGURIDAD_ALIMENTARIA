@@ -9,11 +9,11 @@
           i.fas.fa-info
       h1 Introducción
 
-    .row.mb-4
-      .col-md-2.mb-3.col-ipad
+    .row.justify-content-center.align-items-center.mb-4
+      .col-12.col-md-4.col-lg-3.mb-3
         figure
             img(src='@/assets/curso/temas/intro/intro-1.svg', alt='')
-      .col-md-10.col-ipad
+      .col-12.col-md-8.col-lg-9
         p Por medio de la normatividad relacionada con el tema de salud ambiental, es posible identificar las estrategias adoptadas por el país en cuanto a la manera como se articula la respuesta institucional para hacer frente a las problemáticas globales, que de una u otra forma, han incidido en las condiciones de vida y salud de la población mundial.
         p Se invita al aprendiz a ver el video introductorio del componente formativo:
 

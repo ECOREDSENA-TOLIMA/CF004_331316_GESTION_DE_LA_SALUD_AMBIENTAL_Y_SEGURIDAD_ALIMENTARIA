@@ -8,9 +8,9 @@
       h1 Normas y lineamientos a nivel nacional e internacional en seguridad sanitaria y ambiental  
 
     .row.mb-4(data-aos="fade-right")
-      .col-5.col-ipad
+      .col-12.col-md-4.col-lg-3.mb-3
         img(src='@/assets/curso/temas/tema1/img-1.png')
-      .col-7.col-ipad
+      .col-12.col-md-8.col-lg-9
         p La seguridad sanitaria y ambiental es un asunto de suma importancia para los países debido a la influencia que tienen los factores ambientales sobre la salud humana y la calidad de vida de la población.
         p A través de la gestión integral de los recursos naturales y la seguridad sanitaria y ambiental, es posible reducir los factores de riesgo a los cuales se expone la población en diferentes entornos y que pueden derivar en enfermedad y, por consiguiente, en un deterioro de las capacidades productivas.
         p A continuación, se hace una revisión de los lineamientos nacionales e internacionales que se tienen como referencia para el diseño e implementación de políticas de protección de la salud a través de la gestión eficiente de recursos naturales y la promoción de un ambiente saludable.
