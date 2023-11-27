@@ -249,7 +249,7 @@
       h2 2.4. Entes de control territorial, departamental y nacional
 
     p Muy de la mano con los mecanismos que aseguran la participación de la ciudadanía en las instancias de decisión sobre los temas de salud, se encuentran los entes de control, los cuales tienen la misión de velar por el cumplimiento de la ley y la restitución de los derechos de las personas, sin importar sus creencias, raza, credo o cualquier otra condición. Al respecto el Manual de estructura del Estado colombiano indica que los organismos de control “son aquellos organismos a los que la Constitución Política les confía las funciones relacionadas con el control disciplinario, defender al pueblo y el control fiscal. No están adscritos ni vinculados a las Ramas del poder público”. 
-    p.mb-5 De acuerdo con el organigrama publicado en el portal web del Departamento Administrativo de la Función Pública la estructura general de los organismos de control es la siguiente:
+    p.mb-5 De acuerdo con el organigrama publicado en el portal web del Departamento Administrativo de la Función Pública <a href="https://funcionpublica.gov.co/quienes-somos/organigrama-de-funcion-publica" target="_blank">Enlace web</a>, la estructura general de los organismos de control es la siguiente:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
